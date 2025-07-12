@@ -89,5 +89,5 @@ This project is licensed under the MIT License - see the [LICENSE.txt](./LICENSE
 
 Fatima Fahad\
 [LinkedIn](https://www.linkedin.com/in/fatima-fahad2)\
-[GitHub Profile](https://github.com/quifA)
+[GitHub Profile](https://github.com/quifA/hand-gesture-model)
 
